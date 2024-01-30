@@ -1,0 +1,51 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 75px;
+    margin-bottom: -25px;
+    
+}
+
+h2 {
+    border: 1px solid black;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    width: 310px;
+    padding-left: 20px;
+}
+
+img {
+    width: 550px;
+}
+
+h3 {
+    font-style: oblique;
+    font-size: 25px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    padding-inline: 25px;
+}
+
+a:hover {
+    color: red;
+}
+
+caption {
+    font-weight: bolder;
+}
